@@ -22,4 +22,4 @@ gcc \*.c -o a -lpthread
 
 # Link Presentasi
 
-Untuk melihat presentasi bisa klik [disini] (https://docs.google.com/presentation/d/1N8zloH2V4VSssiJRSg2tQjjanWyz_N7delpaWLB2lJQ/edit?usp=sharing)
+Untuk melihat presentasi bisa klik [disini](https://docs.google.com/presentation/d/1N8zloH2V4VSssiJRSg2tQjjanWyz_N7delpaWLB2lJQ/edit?usp=sharing)
