@@ -15,7 +15,9 @@ STAR-KNIFE merupakan sebuah game Catch and Drop yang dapat dimainkan oleh satu a
 # How to use the code
 
 gcc -c \*.c
+
 gcc \*.c -o a -lpthread
+
 ./a
 
 # Link Presentasi
