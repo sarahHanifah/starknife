@@ -20,11 +20,13 @@ gcc \*.c -o a -lpthread
 
 ./a
 
-## Link Presentasi
+## Presentation
 
 Untuk melihat presentasi bisa klik [disini](https://docs.google.com/presentation/d/1N8zloH2V4VSssiJRSg2tQjjanWyz_N7delpaWLB2lJQ/edit?usp=sharing)
 
-## Dibuat oleh Kelompok Solaris C1 Ilmu Komputer
+## Created By
+
+Dibuat oleh Kelompok Solaris C1 Ilmu Komputer
 
 - 1903761 Dwiki Fajar Kurniawan
 - 1909263 Rico Valentino
