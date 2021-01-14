@@ -26,7 +26,7 @@ Untuk melihat presentasi bisa klik [disini](https://docs.google.com/presentation
 
 ## Created By
 
-Dibuat oleh Kelompok Solaris C1 Ilmu Komputer
+Kelompok Solaris C1 Ilmu Komputer 2019
 
 - 1903761 Dwiki Fajar Kurniawan
 - 1909263 Rico Valentino
